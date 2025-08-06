@@ -77,3 +77,8 @@ function startOver() {
   gamePattern = [];
   started = false;
 }
+
+
+
+
+//salam how are you 
